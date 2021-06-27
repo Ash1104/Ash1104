@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/-opencv-003396?logo=opencv&logoColor=fff) 
 
 **Learning**  
-![SLAM](https://img.shields.io/badge/-SLAM-0000FF?logo=slam&logoColor=fff)
+![SLAM](https://img.shields.io/badge/-SLAM-0000FF?logo=mattermost&logoColor=fff)
 ![tensorflow](https://img.shields.io/badge/-TensorFlow-dc322f?logo=tensorflow&logoColor=fff) 
 ![Pytorch](https://img.shields.io/badge/-Pytorch-333fff?logo=pytorch&logoColor=fff)
 ![ROS](https://img.shields.io/badge/-ROS-00fff?logo=ros&logoColor=fff)
