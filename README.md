@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1104&theme=dark&layout=compact' width='350px'>  
 
-### Hello world 🌏
+### **Hello world 🌏**
 
 🤖 Robot enthusiast/RMer
 
