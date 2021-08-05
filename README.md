@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1104&theme=tokyonight&layout=compact' width='350px'>  
+<!-- <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ash1104&theme=tokyonight&layout=compact' width='350px'>   -->
 
 ## **Hello world 🌏**
 
