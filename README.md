@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=fff) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff) 
 ![OpenCV](https://img.shields.io/badge/-opencv-003396?logo=opencv&logoColor=fff) 
-
+<!-- 
 **Learning**  
 ![SLAM](https://img.shields.io/badge/-SLAM-0000FF?logo=mattermost&logoColor=fff)
 ![tensorflow](https://img.shields.io/badge/-TensorFlow-dc322f?logo=tensorflow&logoColor=fff) 
 ![Pytorch](https://img.shields.io/badge/-Pytorch-333fff?logo=pytorch&logoColor=fff)
-![ROS](https://img.shields.io/badge/-ROS-00fff?logo=ros&logoColor=fff)
+![ROS](https://img.shields.io/badge/-ROS-00fff?logo=ros&logoColor=fff) -->
